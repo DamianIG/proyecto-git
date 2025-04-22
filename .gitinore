@@ -1,0 +1,7 @@
+*.log
+.vscode
+.DS store
+node modules
+*.txt
+.env
+.sass-cache
